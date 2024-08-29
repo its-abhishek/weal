@@ -1,0 +1,55 @@
+.form {
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 200px;
+}
+.h3{
+    color: white;
+}
+.form-group{
+    padding: 10px;
+}
+
+.label {
+    color: rgb(196, 96, 179);
+    padding-left:26px;
+    width:170px;
+    text-transform: uppercase;
+    display:inline-block;
+    text-align: left;
+}
+
+.UserID {
+    padding: 3px 10px;
+}
+.Password {
+    padding: 3px 10px;
+}
+.custom-control-input {
+    padding: 3px 10px;
+}
+
+.custom-control-label {
+    padding-left: 0px;
+    text-transform:inherit;
+    color: rgb(128, 240, 231);
+}
+
+.custom-control {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.btn {
+    padding: 10px 150px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: rgb(196, 96, 179);
+    color: white;
+    font-weight: bold;
+}
+
+.forgot-password {
+    margin-left: 30px;
+}

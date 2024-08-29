@@ -1,0 +1,87 @@
+.first-tag {
+    color: rgb(196, 96, 179);
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    font-family: "Lato", sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    word-spacing: 3px;
+  }
+  .second-tag {
+    color: white;
+    position: absolute;
+    left: 15%;
+  
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+  
+    font-size: 45px;
+    top: 46%;
+    word-spacing: 3px;
+  }
+  .insta-logo {
+    position: absolute;
+    top: 65%;
+    height: 35px;
+    width: 35px;
+    left: 16%;
+  }
+  .mail-logo {
+    position: absolute;
+    top: 75%;
+    height: 35px;
+    width: 35px;
+    left: 16%;
+  }
+  .insta-id {
+    position: absolute;
+    top: 63%;
+    left: 23%;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(196, 96, 179);
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+  }
+  .mail-id {
+    position: absolute;
+    top: 73%;
+    left: 23%;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(196, 96, 179);
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+  }
+  @media screen and (max-width: 600px) {
+    .insta-logo {
+      position: absolute;
+      left: 45%;
+      top: 60%;
+    }
+    .insta-id {
+      top: 65%;
+      left: 40%;
+    }
+    .mail-id {
+      top: 75%;
+      left: 38%;
+    }
+    .mail-logo {
+      top: 70%;
+      left: 45%;
+    }
+  }
+  .cover-page {
+    position: absolute;
+    height: 303.375px;
+    width: 223.5px;
+    right: 15%;
+    top: 30%;
+  }
+  @media screen and (max-width: 998px) {
+    .cover-page {
+      display: none;
+    }
+  }

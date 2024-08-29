@@ -1,0 +1,55 @@
+.Query {
+    margin-top: 20px;
+    font-size: 15px;
+    width: 90%;
+    /* margin-left: 2%; */
+    position: absolute;
+    top: 35%;
+    border-radius: 5px;
+    border: transparent;
+    outline: none;
+    left: 5%;
+  }
+  
+  .Confession {
+    font-size: 15px;
+    width: 90%;
+    /* margin-left: 2%; */
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    border-radius: 5px;
+    border: transparent;
+    outline: none;
+  }
+  .label1 {
+    color: white;
+    position: absolute;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    top: 32%;
+    left: 5%;
+    font-size: 20px;
+  }
+  .label2 {
+    color: white;
+    position: absolute;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    top: 59%;
+    left: 5%;
+    font-size: 20px;
+  }
+  .finish {
+    position: absolute;
+    top: 85%;
+    width: 100px;
+    left: 45%;
+    height: 35px;
+    border-radius: 5px;
+    border: transparent;
+    cursor: pointer;
+  }
+  .cont{
+      display: flex;
+  }

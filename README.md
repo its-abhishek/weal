@@ -1,2 +1,2 @@
-# weal
-Weal the Health club website
+# Website
+Weal Club
